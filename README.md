@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaWeb and React**
 
-- 💬 Ask me about **Java and Node**
+- 💬 Ask me about **Flutter and React Native**
 
 - 📫 How to reach me **lucassdo2003@gmail.com**
 
