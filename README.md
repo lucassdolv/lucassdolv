@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassdolv&label=Profile%20views&color=0e75b6&style=flat" alt="lucassdolv" /> </p>
 
-- 🌱 I’m currently learning **JavaWeb and React**
+- 🌱 I’m currently learning **TS and Flutter**
 
-- 💬 Ask me about **Flutter and React Native**
+- 💬 Ask me about **JS and Java**
 
 - 📫 How to reach me **lucassdo2003@gmail.com**
 
